@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.container {
+  background-color: #f4f4f4;
+  padding: 1rem;
+}
+
+li {
+  font-size: 3rem;
+}

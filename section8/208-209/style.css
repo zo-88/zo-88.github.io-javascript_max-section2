@@ -1,0 +1,16 @@
+body {
+  /* height: 100vh; */
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #f4f4f4;
+  padding: 3rem;
+}
+
+li {
+  font-size: 2rem;
+}
