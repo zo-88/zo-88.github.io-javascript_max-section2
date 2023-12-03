@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  /* align-items: center; */
+  font-size: 2.5rem;
+}
+
+.container {
+  background-color: #f4f4f4;
+  padding: 5px 25px;
+  margin-top: 10px;
+}
+
+li {
+  color: black;
+  padding: 20px;
+}
